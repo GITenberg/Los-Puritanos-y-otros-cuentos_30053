@@ -1,0 +1,39 @@
+_repo: Los-Puritanos-y-otros-cuentos_30053
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palacio Valdés, Armando
+    aliases:
+    - Palacio Valdes, Armando
+    - Valdés, Armando Palacio
+    birthdate: 1853
+    deathdate: 1938
+    gutenberg_agent_id: '4015'
+    url: http://www.gutenberg.org/2009/agents/4015
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+    - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+  editor:
+    agent_name: Faulkner, William Thomas
+    gutenberg_agent_id: '34338'
+    url: http://www.gutenberg.org/2009/agents/34338
+description: ''
+gutenberg_issued: '2009-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30053'
+  lccn: '05025650'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, Spanish'
+tableOfContents: El pájaro en la nieve -- La confesion de un crimen -- El sueño de
+  un reo de muerte -- Los puritanos.
+title: Los Puritanos, y otros cuentos
+url: http://www.gutenberg.org/ebooks/30053
